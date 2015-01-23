@@ -1,4 +1,4 @@
-# memcached.sh
+# memcached
 Hưỡng dẫn 
 <br># yum install git
 <br># git clone --depth=1 https://github.com/betapcode/memcached.sh.git
